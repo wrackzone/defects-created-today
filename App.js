@@ -109,7 +109,8 @@ Ext.define('CustomApp', {
 	            'Severity',
 	            'Environment',
 	            'FoundInBuild',
-	            'TargetDate'
+	            'TargetDate',
+	            'Discussion'
 	        ],
 	        context: this.getContext(),
 	        storeConfig: {
